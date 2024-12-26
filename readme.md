@@ -22,7 +22,7 @@
 
 4. **Start the server:**
    ```bash
-   npm start
+    npx nodemon
    ```
 
 5. **Connect to MongoDB:**
